@@ -76,7 +76,9 @@ GitHub Stats:
 <br/><br/>
 
 <p align="center">
-```If you like what I do, maybe consider buying me a grounded coffee 🥺👉👈```
+```
+  If you like what I do, maybe consider buying me a grounded coffee 🥺👉👈
+  ```
 <p align="center">
 <a href="https://www.buymeacoffee.com/zameel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <p align="center">
