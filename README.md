@@ -62,6 +62,9 @@ GitHub Stats:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zameelpichen&langs_count=8&theme=gotham&layout=compact" />
 </a>
  <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
  <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
