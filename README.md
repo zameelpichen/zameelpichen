@@ -63,11 +63,8 @@ GitHub Stats:
 </a>
   
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<!--RemovethisSTART_SECTION:waka-->
+<!--RemovethisEND_SECTION:waka-->
 
 
  <!--
@@ -79,11 +76,11 @@ No Activity tracked this Week
 <br/><br/>
 
 <p align="center">
-If you like what I do, maybe consider buying me a grounded coffee 🥺👉👈
+```If you like what I do, maybe consider buying me a grounded coffee 🥺👉👈```
 <p align="center">
 <a href="https://www.buymeacoffee.com/zameel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <p align="center">
-Let's pick each others brain by scheduling a Virtual Coffee Session
+```Let's pick each others brain by scheduling a Virtual Coffee Session```
 <p align="center">
 <a href="https://twitter.com/messages/compose?recipient_id=778174029626798085&text=Taking+up+on+your+invite+to+schedule+a+virtual+coffee+and+share+our+thoughts%21"
   class="twitter-dm-button" data-screen-name="@zameelpichen">
