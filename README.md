@@ -34,45 +34,45 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zameelpichen.zameelpichen&color=00cf00&style=for-the-badge)-->
 
 
-In Github : 
+**In Github :**
 - 🔭 &ensp;I’m currently squeezing in some time extra to contribute to open source.
 - 🌱 &ensp;I’m observing the github trends in open source tech development ❤️.
 - 👯 &ensp;I’m looking to collaborate with other developers and software architects.
 - 🗿  &ensp; I started my career as a web developer in 2008, 13 years ago.
 - ⚡ &ensp;Fun fact : I love my spagetti, but dont like others spagetti. 
 
-Off Github : 
+**Off Github :** 
 - 🔭 &ensp;I'm currently scaling up Megham Labs as its CEO.
 - 🌱 &ensp;I’m learning and developing trends from global economy data.
 - 👯 &ensp;I'm making sure all the services provided by me and my teams add value to the client cost-benefit wise. 
 - 🗿 &ensp; I started discovering the corporate world's inner workings in 2014 when I met a few successful founders.
 - ⚡ &ensp;Fun fact : One of my 5/25 is speaking at WEF @Davos. 
 
-Reach Me :
+**Reach Me :**
 - 📫 &ensp;For a 1 on 1 chat : [**zameelpichen@Twitter**][zameelpichen@Twitter]
 - 📫 &ensp;To demo me your products and ideas : [**zameelpichen@Linkedin**][zameelpichen@Linkedin]
 - 📫 &ensp;To discover my blogs : [**zameelpichen@Medium**][zameelpichen@Medium]
 - 📫 &ensp;To send your resume : [**grow@meghamlabs.com**][grow@meghamlabs.com] [We are hiring!]
 
-GitHub Stats:  
+**GitHub Stats :**  
 *NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.*
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zameelpichen&show_icons=true&line_height=27&include_all_commits=true&theme=gotham" alt="My github stats" /></a>  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="#">
+  <img height="182px" width="auto" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zameelpichen&show_icons=true&line_height=27&include_all_commits=true&theme=gotham" alt="My github stats" /></a>  
+<a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zameelpichen&langs_count=8&theme=gotham&layout=compact" />
+  <img height="182px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zameelpichen&langs_count=8&theme=gotham&layout=compact" />
 </a>
-  
-
+<a href="#">
+  <img height="182px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zameelpichen&theme=gotham&v=2&hide_progress=true&layout=compact" />
+</a>
+<a href="#"><img height="182px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=zameelpichen&theme=dark"></a>
+ 
 <!--RemovethisSTART_SECTION:waka-->
 <!--RemovethisEND_SECTION:waka-->
 
 
- <!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  --><!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zameelpichen&theme=gotham" />
-</a>-->
+
+
   
 <br/><br/>
 
