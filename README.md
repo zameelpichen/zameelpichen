@@ -55,6 +55,7 @@ Reach Me :
 - 📫 &ensp;To send your resume : [**grow@meghamlabs.com**][grow@meghamlabs.com] [We are hiring!]
 
 GitHub Stats:  
+*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zameelpichen&show_icons=true&line_height=27&include_all_commits=true&theme=gotham" alt="My github stats" /></a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
