@@ -67,7 +67,7 @@
 <a href="#">
   <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zameelpichen&theme=gotham&v=2&hide_progress=true&layout=compact" />
 </a><br/>
-<a href="#"><img height="182px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=zameelpichen&theme=dark"></a>
+<a href="#"><img height="182px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=zameelpichen&theme=dark&v=2"></a>
 </p>
 <!--RemovethisSTART_SECTION:waka-->
 <!--RemovethisEND_SECTION:waka-->
