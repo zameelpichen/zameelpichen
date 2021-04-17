@@ -55,7 +55,7 @@
 - 📫 &ensp;To send your resume : [**grow@meghamlabs.com**][grow@meghamlabs.com] [We are hiring!]
 
 **GitHub Stats :**  
-*NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.*
+*NOTE: Most Used Languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.*
 <p align="center"><a href="#">
   <img height="182px" width="auto" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zameelpichen&show_icons=true&line_height=27&include_all_commits=true&theme=gotham" alt="My github stats" /></a>  
 <a href="#">
@@ -63,7 +63,7 @@
   <img height="182px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zameelpichen&langs_count=8&theme=gotham&layout=compact" />
 </a>
 <a href="#">
-  <img height="182px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zameelpichen&theme=gotham&v=2&hide_progress=true&layout=compact" />
+  <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zameelpichen&theme=gotham&v=2&hide_progress=true&layout=compact" />
 </a>
 <a href="#"><img height="182px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=zameelpichen&theme=dark"></a>
  
