@@ -10,7 +10,7 @@
 </a>  
 <a href="https://github.com/zameelpichen?tab=followers" target="_blank">
   <img align="center" src="https://img.shields.io/github/followers/zameelpichen?logo=GitHub&style=for-the-badge" alt="Github" />
-</a>  
+</a> 
 <a href="https://www.linkedin.com/in/zameelpichen/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/zameelpichen/" alt="Linkedin" />
 </a>
@@ -56,17 +56,19 @@
 
 **GitHub Stats :**  
 *NOTE: Most Used Languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.*
-<p align="center"><a href="#">
+<p align="center">
+<a href="#">
   <img height="182px" width="auto" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zameelpichen&show_icons=true&line_height=27&include_all_commits=true&theme=gotham" alt="My github stats" /></a>  
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img height="182px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zameelpichen&langs_count=8&theme=gotham&layout=compact" />
 </a>
+<br/>
 <a href="#">
   <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zameelpichen&theme=gotham&v=2&hide_progress=true&layout=compact" />
-</a>
+</a><br/>
 <a href="#"><img height="182px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=zameelpichen&theme=dark"></a>
- 
+</p>
 <!--RemovethisSTART_SECTION:waka-->
 <!--RemovethisEND_SECTION:waka-->
 
