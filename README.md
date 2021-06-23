@@ -71,21 +71,32 @@
 </p>
 <!--RemovethisSTART_SECTION:waka-->
 <!--RemovethisEND_SECTION:waka-->
+<br/>
 
 
-
+<p align="center" ><b>
+🎵 I sometimes keep my team's spotify playlist on loop 🎧. </b></p>
+  <p align="center" ><b>
+  🎧 Its a long playlist with contributions from different team members.🎵
+  </b></p>
+<p align="center" >
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img height="350px" width="auto" align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=faxcjb32svzntg6dpx904exsj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=faxcjb32svzntg6dpx904exsj&cover_image=true&theme=default" />
+</a>
+</p>
 
   
-<br/><br/>
+<br/>
 
 <p align="center">
-```
+<b>
   If you like what I do, maybe consider buying me a grounded coffee 🥺👉👈
-  ```
+  </b>
 <p align="center">
 <a href="https://www.buymeacoffee.com/zameel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <p align="center">
-```Let's pick each others brain by scheduling a Virtual Coffee Session```
+<b>Let's pick each others brain by scheduling a Virtual Coffee Session!</b>
 <p align="center">
 <a href="https://twitter.com/messages/compose?recipient_id=778174029626798085&text=Taking+up+on+your+invite+to+schedule+a+virtual+coffee+and+share+our+thoughts%21"
   class="twitter-dm-button" data-screen-name="@zameelpichen">
