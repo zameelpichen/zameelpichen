@@ -75,7 +75,7 @@
 
 
 <p align="center" ><b>
-🎵 I sometimes keep my team's spotify playlist on loop 🎧. </b></p>
+🎵 I sometimes keep any spotify playlist creaetd by one of my teams on loop 🎧. </b></p>
   <p align="center" ><b>
   🎧 Its a long playlist with contributions from different team members.🎵
   </b></p>
