@@ -55,7 +55,7 @@
 - 📫 &ensp;To send your resume : [**grow@meghamlabs.com**][grow@meghamlabs.com] [We are hiring!]
 
 **GitHub Stats :**  
-*NOTE: Most Used Languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.*
+*NOTE: Most Used Languages does not indicate my skill level, it's a github metric of which languages i have the most code on github. And WakaTime Stats is for the last 7 days.*
 <p align="center">
 <a href="#">
   <img height="182px" width="auto" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zameelpichen&show_icons=true&line_height=27&include_all_commits=true&theme=gotham" alt="My github stats" /></a>  
