@@ -38,7 +38,7 @@
 **Off Github :** 
 - 🔭 &ensp;I'm currently growing products under Megham Labs as its CEO.
 - 🌱 &ensp;I’m learning and developing trends from global economy data.
-- ⚡ &ensp;Fun fact : One of my 5/25 is speaking at WEF @Davos. 
+- ⚡ &ensp;Fun fact : One of my 5/25 is speaking at @WEFDavos, @MIT, @Oxford, @Harvard, @Stanford. 
 
 **Reach Me :**
 - 📫 &ensp;For 1 on 1 chat : [**zameelpichen@Twitter**][zameelpichen@Twitter]
