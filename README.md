@@ -17,7 +17,7 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=zameelpichen&label=Guests+Since+April+2023&style=for-the-badge" alt="visitors" />
 <br/><br/>
-<a href="" target="_blank">
+<a href="https://github.com/zameelpichen/zameelpichen/tree/master/Profile" target="_blank">
   <img align="center" src="https://img.shields.io/static/v1?label=&message=Wanna Know More About Me? Bio&logo=Github&color=000000&style=for-the-badge" alt="Youtube" />
 </a>  
 
