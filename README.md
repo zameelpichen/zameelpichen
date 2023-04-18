@@ -1,5 +1,5 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zameel Pichen. Great To Meet You!</h1>
-<p align="center">
+<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zameel Pichen. Great To Meet You!</h1>
+<p align="left">
 
 <a href="https://twitter.com/zameelpichen" target="_blank">
   <img align="center" src="https://img.shields.io/twitter/follow/zameelpichen?color=1DA1F2&label=The+Bird&logo=twitter&style=for-the-badge" alt="Twitter" />
